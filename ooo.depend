@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1625520107 source:c:\users\utente\desktop\ooo\main.cpp
+	"gioco.h"
+
+1625520685 source:c:\users\utente\desktop\ooo\gioco.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"const.h"
+	"gioco.h"
+
+1625501162 c:\users\utente\desktop\ooo\const.h
+
+1625520036 c:\users\utente\desktop\ooo\gioco.h
+	"const.h"
+
+1625522269 source:c:\users\cacci\desktop\ooo\gioco.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"const.h"
+	"gioco.h"
+
+1625501162 c:\users\cacci\desktop\ooo\const.h
+
+1625520036 c:\users\cacci\desktop\ooo\gioco.h
+	"const.h"
+
+1625520107 source:c:\users\cacci\desktop\ooo\main.cpp
+	"gioco.h"
+
+1625520107 source:c:\users\cacci\desktop\c++\ooo\main.cpp
+	"gioco.h"
+
+1625520036 c:\users\cacci\desktop\c++\ooo\gioco.h
+	"const.h"
+
+1625501162 c:\users\cacci\desktop\c++\ooo\const.h
+
+1626097639 source:c:\users\cacci\desktop\c++\ooo\gioco.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"const.h"
+	"gioco.h"
+
+1626094039 source:c:\users\cacci\desktop\projects\c++\ooo\gioco.cpp
+	<iostream>
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	"const.h"
+	"gioco.h"
+
+1625497562 c:\users\cacci\desktop\projects\c++\ooo\const.h
+
+1625516436 c:\users\cacci\desktop\projects\c++\ooo\gioco.h
+	"const.h"
+
+1625516507 source:c:\users\cacci\desktop\projects\c++\ooo\main.cpp
+	"gioco.h"
+
